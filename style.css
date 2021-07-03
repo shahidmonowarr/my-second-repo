@@ -21,8 +21,11 @@
 #d3{
     background-color: grey;
 }
+#d4{
+    background: darkgrey;
+}
 .ph{
-    
+    text-align: justify;
     margin: 2px auto;
     width: 33.3%;
     border: 2px solid silver;
