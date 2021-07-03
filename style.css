@@ -1,5 +1,32 @@
-h3{
-    color: brown;
-    background-color: cyan;
+.container{
+    margin:auto;
+    padding: 10px;
+    width: auto;
+    height: 2000px;
+    background-color: yellow;
 }
-df
+.container h1{
+    text-align: center;
+}
+.container h2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#d1{
+    background-color: grey;
+}
+#d2{
+    background-color: grey;
+}
+#d3{
+    background-color: grey;
+}
+.ph{
+    
+    margin: 2px auto;
+    width: 33.3%;
+    border: 2px solid silver;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+}
